@@ -1,4 +1,4 @@
-# KNLTB-Club-leden-inschrijven
+# KNLTB Club leden inschrijven
 KNLTB verwacht van verenigingen dat zij €100,- betalen puur om een CSV aan te mogen leveren met alle leden die de vereniging ingeschreven wil hebben, terwijl verenigingen al tienduizenden euro's betalen aan de KNLTB. Om geld te besparen heb ik dit makkelijke scriptje gemaakt, zodat je alsnog zelf efficiënt al je leden kan inschrijven. 'Vo 19. 
 
 ## Gebruik
